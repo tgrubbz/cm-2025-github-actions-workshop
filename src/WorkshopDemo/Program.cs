@@ -28,6 +28,7 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+fart
 
 app.UseHttpsRedirection();
 
